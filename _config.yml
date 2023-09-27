@@ -1,0 +1,93 @@
+---
+booktitle: Proceedings of 2nd Annual Workshop on Topology, Algebra, and Geometry in
+  Machine Learning (TAG-ML)
+shortname: TAGML
+volume: '221'
+year: '2023'
+start: 2023-07-28
+end: 2023-07-28
+published: 2023-09-27
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: TAGML-2023
+month: 0
+cycles: false
+bibtex_editor: Doster, Timothy and Emerson, Tegan and Kvinge, Henry and Miolane, Nina
+  and Papillon, Mathilde and Rieck, Bastian and Sanborn, Sophia
+editor:
+- given: Timothy
+  family: Doster
+- given: Tegan
+  family: Emerson
+- given: Henry
+  family: Kvinge
+- given: Nina
+  family: Miolane
+- given: Mathilde
+  family: Papillon
+- given: Bastian
+  family: Rieck
+- given: Sophia
+  family: Sanborn
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of 2nd Annual Workshop on Topology, Algebra, and Geometry in Machine Learning (TAG-ML) on 28 July 2023
+
+  Published as Volume 221 by the Proceedings of Machine Learning Research on 27 September 2023.
+
+  Volume Edited by:
+    Timothy Doster
+    Tegan Emerson
+    Henry Kvinge
+    Nina Miolane
+    Mathilde Papillon
+    Bastian Rieck
+    Sophia Sanborn
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 28 Jul
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v221"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v221
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v221
+email: ''
+conference:
+  name: Topological, Algebraic and Geometric Learning Workshops 2023
+  url: https://www.tagds.com/events/conference-workshops/tag-ml23
+  location: ''
+  dates:
+  - 2023-07-28
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v221/tag_icml23.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v221/tag_icml23.bib
